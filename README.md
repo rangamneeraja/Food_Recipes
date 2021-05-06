@@ -1,2 +1,2 @@
 # Food_Recipes
-MVVM Pattern
+MVVM Design Pattern- iOS
